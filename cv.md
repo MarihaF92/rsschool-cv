@@ -20,3 +20,4 @@ BMSTU. RK-5.
 ### 8. English
 - English (reading) /Beginner
 - English (speaking) /Beginner
+- English (writing) /Beginner
