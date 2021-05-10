@@ -3,7 +3,7 @@
 ### 2. Contact Info:
 
 - email:m.g.fedorova@mail.ru
-- telegram: rac_con
+- telegram: @rac_con
 
 ### 3. Summary:
 I will a Java/Kotlin developer. 
